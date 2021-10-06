@@ -1,0 +1,23 @@
+{
+  "name": "atividades-topicos-computacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihBeatriz/atividades-topicos-computacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihBeatriz/atividades-topicos-computacao/issues"
+  },
+  "homepage": "https://github.com/NihBeatriz/atividades-topicos-computacao#readme"
+}
